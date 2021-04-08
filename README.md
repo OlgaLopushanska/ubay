@@ -13,8 +13,4 @@ Build the project with mvn clean package command.
 Launch with mvn tomcat7:run command.
 ###Technologies
 Technologies used in writing the application :
-html, css, js, javaee(servlets), maven, tomcat, mysql, hybernate.
-<p>
-  <img src="https://github.com/onlyonekissforme/Resoursers/blob/main/Pix.PNG?raw=true" alt="photo">
-
-</p>
+html, css, js, javaee(servlets), maven, tomcat, mysql, hibernate.
